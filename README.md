@@ -1,2 +1,2 @@
-# Project
-This is my repository of my IBM Capstone Project
+# Capstone Project
+This is the repository of my IBM Capstone Project
